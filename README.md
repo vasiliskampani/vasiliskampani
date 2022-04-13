@@ -7,4 +7,4 @@ vasiliskampani/vasiliskampani is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![12](https://user-images.githubusercontent.com/72518208/156890709-ab2d462a-959b-4c23-89c7-e9db2ef7de94.gif)
+![gif](https://user-images.githubusercontent.com/72518208/163249564-7b780a25-21ac-4465-af56-47c1b6963009.gif)
